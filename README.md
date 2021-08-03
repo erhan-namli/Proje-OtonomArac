@@ -18,6 +18,26 @@
 
 ![rpi4](https://user-images.githubusercontent.com/80072131/128006646-8b8670ad-a408-40d5-8d67-5edc152e84a4.jpg)
 
+**4. L298N Motor sürücüsü, aracın motorlarını kontrol edebilmek için**
+
+![l298n-voltaj-regulatorlu-cift-motor-surucu-karti-27352-62-B](https://user-images.githubusercontent.com/80072131/128007230-3bf93ff8-fdf1-4a61-b977-f00a30c55b95.jpg)
+
+**5. FTDI Programlama kartı, ESP32-CAM modelinin programlama çıkışı yok, bu sebeple pinlerini FTDİ Programlama kartına bağlayarak içerisine yazılım atabiliyoruz.**
+
+![ESP32-CAM-FTDI-programmer-5V-supply](https://user-images.githubusercontent.com/80072131/128007477-a4263771-8cc7-4716-b23d-026950997a9c.png)
+
+**6. Aracın motorlarına, soğutma fanına ve ileride eklenecek çeşitli modüllere güç verebilmek için şarjlı batarya**
+
+![ElYapımıŞarjlıPil](https://user-images.githubusercontent.com/80072131/128008707-af9c9a9a-469c-46b1-b809-a736608f9c94.jpg)
+
+**7. Raspberry Pi 4 harici bir güç ile çalıştırılamadığı için 5V çıkışlı bir powerbank**
+
+![image](https://user-images.githubusercontent.com/80072131/128009137-be14a063-73b6-4feb-9fbd-05c619023ef9.png)
+
+
+
+
+
 
 
 
