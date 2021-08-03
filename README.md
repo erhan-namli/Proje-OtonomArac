@@ -37,8 +37,7 @@
 
 ## ESP32 CAM - Kullanılan Kodlar
 
-**ESP32 için kullanılan kod şu yönden önemli, görüntü işleme modellerinde alınan FPS ulaşılması beklenen sonuç için önem arz ediyor, bu sebeple içindeki kod en yüksek FPS için yapıldı** 
-**Kodlar depo içerisinde bulunuyor**
+**ESP32 için kullanılan kod şu yönden önemli, görüntü işleme modellerinde alınan FPS ulaşılması beklenen sonuç için önem arz ediyor, bu sebeple içindeki kod en yüksek FPS için yapıldı, Kodlar depo içerisinde bulunuyor**
 
 
 
